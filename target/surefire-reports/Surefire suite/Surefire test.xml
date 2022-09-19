@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-O27S96EV" failures="0" tests="1" name="com.zerodha.qa.com.zerodha.qa.loginTest" time="6.916" errors="0" timestamp="3 Sep 2022 09:36:02 GMT">
+  <testcase classname="com.zerodha.qa.com.zerodha.qa.loginTest" name="stpes_of_execution" time="2.734"/>
+</testsuite>
